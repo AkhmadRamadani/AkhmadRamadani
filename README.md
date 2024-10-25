@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rama</h1>
 <h3 align="center">A passionate software developer from Indonesia.</h3>
 
-- 🌱 I’m currently doing my undergraduate thesis entitled Face Recognition using Deep Learning and KNN
+- 🌱 I’m currently doing my master thesis
 
 - 💬 Ask me anything about **Flutter, Software Development**
 
