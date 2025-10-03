@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rama</h1>
-<h3 align="center">A passionate Software Developer from Indonesia 🇮🇩</h3>
 
 - 🌱 Currently working on my **Master's Thesis**  
 - 💬 Ask me anything about **Flutter, Software Development**  
